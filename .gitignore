@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+*.spec
+venv/
+.venv/
+
+# macOS
+.DS_Store
+*.dmg
+*.app
+
+# IDE
+.vscode/
+.idea/
+
+# Config (user-specific, contains API key)
+config.json
