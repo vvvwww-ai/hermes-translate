@@ -22,7 +22,7 @@ macOS 全屏划词即时翻译工具 — **选中即译，零操作**
 
 ### 下载 DMG
 
-从 [Releases](https://github.com/vvsg/hermes-translate/releases) 下载最新的 `.dmg`，拖入 Applications 文件夹即可。
+从 [Releases](https://github.com/vvvwww-ai/hermes-translate/releases) 下载最新的 `.dmg`，拖入 Applications 文件夹即可。
 
 ### 从源码运行
 
