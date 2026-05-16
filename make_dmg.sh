@@ -7,7 +7,7 @@ set -e
 
 APP_NAME="Hermes Translate"
 APP_PATH="dist/${APP_NAME}.app"
-DMG_NAME="Hermes-Translate-1.0.0.dmg"
+DMG_NAME="Hermes-Translate-0.0.2.dmg"
 DMG_PATH="dist/${DMG_NAME}"
 STAGING="/tmp/hermes-dmg-staging"
 
